@@ -1,0 +1,282 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgb(68, 68, 68);
+
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 1%;
+}
+.name{
+    margin-left: -20%;
+    color: white;
+    font-weight: bold;
+
+}
+.flex{
+    display: flex;
+    margin-left: 5%;
+    align-items: center;
+
+}
+.hap{
+    width: 60%;
+    height: 60%;
+}
+.navcenter{
+    height: 2%;
+    width: 30%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -30%;
+    color: rgb(163, 163, 163);
+    font-weight: bold;
+}
+.soclog{
+    display: flex;
+    height: 2%;
+    width: 10%;
+    justify-content: space-around;
+    margin-right: 5%;
+}
+.middleportion{
+    display: flex;
+    margin-top: 5%;
+    justify-content: space-between;
+}
+.yellowline{
+    width: 70%;
+    height: 4px;
+    background-color: yellow;
+    margin-top: 2%;
+}
+.text1{
+    color: rgb(163, 163, 163);
+    margin-top: 2%;
+
+}
+.name1{
+    color: white;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+.text{
+    color: rgb(163, 163, 163);
+    font-size:xx-large;
+    line-height: 150%;
+}
+.txt{
+    line-height: 150%;
+}
+.middlecircle{
+    height: 300px;
+    width: 300px;
+    border-radius: 150px;
+    background-color: rgb(41, 41, 41);
+    margin-top: -4%;
+    margin-left: -4%;
+    
+}
+.middle1{
+    margin-left: 14%;
+}
+.middleright{
+    margin-right: 20%;
+}
+.stxt{
+    color: white;
+    font-size: smaller;
+    margin-bottom: 3%;
+}
+.serv{
+    color: white;
+    line-height: 150%;
+    font-weight: bold;
+}
+.shmore{
+    color: yellow;
+    margin-top: 5%;
+}
+.socimg{
+    height: 10%;
+    width: 10%;
+    background-color:grey;
+    border: 5px solid grey;
+    border-radius: 20px;
+}
+.socio{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-left: -8%;
+    margin-top: 5%;
+}
+.circimg{
+    width: 130%;
+    height: 130%;
+    margin-top: -24%;
+    margin-left: -15%;
+    
+   
+}
+ .rect{
+    height: 80px;
+    width: 80%;
+    background-color: rgb(129, 129, 129);
+    margin-left: 10%;
+    margin-top: -48%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.meta{
+    font-size: x-large;
+    color: white;
+}
+.cont{
+    display: flex;
+    align-items: center;
+    
+}
+.googleimg{
+    height: 40%;
+    width: 80%;
+}
+.linkimg{
+    height: 150%;
+    width: 150%;
+}
+.color{
+    background-color: rgb(41, 41, 41);
+    height:600px;
+    width:100%;
+    margin-top: 5%;
+
+}
+.middleimg{
+    width: 80%;
+    height: 80%;
+}
+.lowermiddle{
+    display: flex;
+    margin-left: 5%;
+    align-items: center;
+}
+.whatclass{
+    color: white;
+    font-weight: bold;
+    line-height: 150%;
+}
+.whattext{
+    color: rgb(163, 163, 163);
+}
+.stats{
+    display: flex;
+    margin-top: 5%;
+}
+.stathead{
+    color: yellow;
+}
+.stattext{
+    color: rgb(163, 163, 163);
+}
+.lowerhead{
+    margin-top: 30%;
+    margin-bottom: 5%;
+}
+.lowertext{
+    margin-bottom: 8%;
+}
+.lowerright{
+    display: flex;
+    align-items: center;
+}
+.righthead{
+    color: white;
+    font-size: larger;
+}
+
+
+
+
+.lower_middle{
+    display: flex;
+    align-items: center;
+}
+.lower_head{
+    color: white;
+    font-size: larger;
+    margin-bottom: 5%;
+}
+.lower_p{
+    color: rgb(169, 164, 164)
+}
+hr{
+    width: 110%;
+    margin-left: 0%;
+    margin-bottom: 3%;
+    margin-top: 2%;
+}
+.arrow{
+    color: yellow;
+    font-size: x-large;
+    margin-left: 20%;
+}
+.skill_img{
+    margin-right: 2%;
+}
+.arrow1{
+    color: yellow;
+    font-size: x-large;
+    margin-left: 9.5%;
+}
+.arrow2{
+    color: yellow;
+    font-size: x-large;
+    margin-left: 9%;
+}
+.cards1,.cards2,.cards3{
+    height:130px;
+    width: 16%;
+    background-color: rgb(148, 148, 148);
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+    margin-top: 5%;
+}
+.card_head{
+    color: white;
+}
+.card_main{
+    display: flex;
+    justify-content: space-evenly;
+}
+.lower_side{
+    margin-left: 30%;
+}
+.imgset{
+    height:50%;
+    width: 15%;
+
+}
+.lowerleft{
+    margin-left: 10%;
+}
+.cards1{
+    margin-left: 8%;
+}
+.cards3{
+    margin-right: 7%;
+
+}
+.stats2{
+    margin-left: 4%;
+}
+.stats4{
+    margin-left: 9%;
+}
